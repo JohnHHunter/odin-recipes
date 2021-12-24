@@ -1,0 +1,1 @@
+A simple website for displaying recipes. This project is guided by The Odin Project.
